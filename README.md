@@ -1,3 +1,5 @@
+![alt image](https://github.com/himanshu-tyd/nike_clone/blob/main/src/assets/images/nike-landingpage.png)
+
 # 🏆 Nike Shoe Store - Your Ultimate Shoe Destination
 
 Welcome to the Nike Shoe Store repository! 🎉 This project is a beautiful and responsive e-commerce website for Nike shoes. It's built with modern technologies to ensure a seamless user experience. 👟
